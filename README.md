@@ -1,6 +1,7 @@
 # Upost - Backend
 #### A reddit for android class
 <img src="https://i.imgur.com/n9TDmEM.png" width="200"/>
+
 ## Usage
 - config the setting.py `Upost/setting.py`
     - Edit `SECRET_KEY`
