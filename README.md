@@ -6,7 +6,8 @@
 - config the setting.py `Upost/setting.py`
     - Edit `SECRET_KEY`
     - Config the email sender account
-- pip install requirements `pip install -r requirements.txt`
+- pip install requirements 
+    - `pip install -r requirements.txt`
 - Create Super User
     - `python3 manage.py createsuperuser --username admin --email admin@example.com`
 - Do the migrate `python manage.py migrate`
